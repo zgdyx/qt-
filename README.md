@@ -1,1 +1,2 @@
 该repository为QT大作业提交用
+使用时请确保c.cpp中的strFilepath指向了空的txt文件或者该repository中的test.txt(测试用)
